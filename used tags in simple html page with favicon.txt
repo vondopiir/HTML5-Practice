@@ -1,0 +1,20 @@
+I have used the following html tags for creating this page:
+
+<h1></h1>
+<h2><.h2>
+<h3></h3>
+<b></b
+<i></i>
+<mark></mark>
+<center></center>
+<ol></ol>
+<ul></ul>
+<a>
+<img>
+<link>
+
+Some cool features of this page:
+	* this page is fully responsive
+	* this page has favicon
+	* this page has so many useful links
+	* used only html
